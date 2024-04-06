@@ -1,0 +1,31 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.code-runner",
+    "ms-azuretools.vscode-docker",
+    "ms-playwright.playwright",
+    "ms-python.black-formatter",
+    "ms-python.debugpy",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "ms-python.pylint",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "nick-rudenko.back-n-forth",
+    "njpwerner.autodocstring",
+    "njqdev.vscode-python-typehint",
+    "oderwat.indent-rainbow",
+    "ritwickdey.LiveServer",
+    "tamasfe.even-better-toml",
+    "vincaslt.highlight-matching-tag",
+    "usernamehw.errorlens",
+    "yzhang.markdown-all-in-one"
+  ]
+}

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sanity-tests"
+version = "0.1.0"
+description = ""
+authors = ["Amrita Matta <matta.amrita@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "libs" }]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
